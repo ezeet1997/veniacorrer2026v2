@@ -20,3 +20,8 @@ Subí el contenido de esta carpeta a la raíz del repositorio y activá GitHub P
 - Cuenta regresiva más grande, centrada y adaptable.
 - Botón de inscripción en 10K, 5K y 2K.
 - Ajustes responsive para escritorio, tablet y celular.
+
+## Corrección v9
+- Flyer principal ampliado y mostrado en proporción vertical 3:4.
+- Portada adaptada para escritorio, tablet y celular.
+- Enlaces «Elegir 10K», «Elegir 5K» y «Elegir 2K» agregados en las tarjetas.
