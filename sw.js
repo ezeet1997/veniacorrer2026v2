@@ -1,4 +1,4 @@
-const CACHE='veni-a-correr-v7';
+const CACHE='veni-a-correr-v8';
 const ASSETS=['./','./index.html','./styles.css','./script.js','./manifest.webmanifest','./assets/images/flyer-vertical.jpg','./assets/images/flyer-horizontal.jpg','./assets/images/logo-evento.jpg','./assets/images/og-cover.jpg','./docs/reglamento.pdf','./docs/deslinde.pdf'  ,"assets/images/logo-evento-transparente.png"
   ,"assets/images/favicon-32.png"
   ,"assets/images/apple-touch-icon.png"
