@@ -12,3 +12,5 @@ Versión alineada con la identidad visual del evento:
 
 ## Publicar
 Subí el contenido de esta carpeta a la raíz del repositorio y activá GitHub Pages en `main / root`.
+
+- Botón de inscripción online: https://inscripciones.mlteventossport.com.ar/eventos/veni-a-correr-2026
